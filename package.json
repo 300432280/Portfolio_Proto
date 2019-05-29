@@ -1,9 +1,16 @@
 {
-  "name": "webrtc-codelab",
+  "name": "Portfolio_DEV",
   "version": "0.0.1",
-  "description": "WebRTC codelab",
+  "description": "Portfolio Deveploment",
   "dependencies": {
     "node-static": "^0.7.10",
-    "socket.io": "^2.0.4"
+    "socket.io": "^2.0.4",
+    "ejs": "latest",
+    "aws-sdk": "latest",
+    "express": "latest",
+    "body-parser": "latest"
+  },
+  "scripts": {
+    "start": "node index.js"
   }
 }
