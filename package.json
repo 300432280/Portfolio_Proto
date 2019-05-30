@@ -8,7 +8,10 @@
     "ejs": "latest",
     "aws-sdk": "latest",
     "express": "latest",
-    "body-parser": "latest"
+    "body-parser": "latest",
+    "@fortawesome/fontawesome-free": "5.8.2",
+    "jquery": "3.4.1",
+    "jquery.easing": "^1.4.1"
   },
   "scripts": {
     "start": "node index.js"
